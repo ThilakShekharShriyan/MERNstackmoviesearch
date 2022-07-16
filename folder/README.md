@@ -16,4 +16,13 @@ Our website had  a functionality of adding movies to favourites and also comment
 
 
 
+<img width="1440" alt="Screenshot 2022-07-16 at 10 36 10 AM" src="https://user-images.githubusercontent.com/57188330/179340964-391eba00-40a7-41ff-9703-4ead713efa56.png">
+
+<img width="643" alt="Screenshot 2022-07-16 at 10 36 37 AM" src="https://user-images.githubusercontent.com/57188330/179340960-bc647e42-b190-4326-8d20-2b208897095f.png">
+
+
+<img width="1440" alt="Screenshot 2022-07-16 at 10 36 46 AM" src="https://user-images.githubusercontent.com/57188330/179340956-cc00a439-33b7-471f-b812-691e97b5470c.png">
+
+
+
 
